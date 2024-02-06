@@ -1,6 +1,6 @@
 # greenland_organicfarm
 
-A new Flutter project.
+Flutter project for Green Land Organic Farm.
 
 ## Getting Started
 
