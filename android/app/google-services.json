@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963081925713",
+    "project_id": "flutterfire-greenland",
+    "storage_bucket": "flutterfire-greenland.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963081925713:android:a0d2b79e6ed7ef9756f470",
+        "android_client_info": {
+          "package_name": "com.example.greenland_organicfarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp_I0zgdwd8XD9G53A6ekGMOaCjS7UEFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
